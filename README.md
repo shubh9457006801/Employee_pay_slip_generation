@@ -1,4 +1,4 @@
-# Employee_pay_slip_generation
+# Pay_slip_generation
 A simple backend application built using NodeJs and ExpressJS for creating a tabular table containing the salary and taxations of the Employee for the given month and year.
 
 ![Directory Structure](https://github.com/shubh9457006801/Employee_pay_slip_generation/blob/master/structure.PNG)
@@ -30,15 +30,19 @@ NODE_ENV=staging node server.js
 
 ## Snapshots
 
+### Question
+
+![Question](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/question.PNG)
+
 ### Landing Page
 
-![Landing Page](https://github.com/shubh9457/Pay_slip_generation/blob/master/landing_page.PNG)
+![Landing Page](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/landing_page.PNG)
 
 ### Generating Payslips
 
-![Generating payslip](https://github.com/shubh9457/Pay_slip_generation/blob/master/Generate_slip1.PNG)
-![Generating payslip](https://github.com/shubh9457/Pay_slip_generation/blob/master/Generate_slip2.PNG)
-![Generating payslip](https://github.com/shubh9457/Pay_slip_generation/blob/master/Generate_slip3.PNG)
+![Generating payslip](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/Generate_slip1.PNG)
+![Generating payslip](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/Generate_slip2.PNG)
+![Generating payslip](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/Generate_slip3.PNG)
 
 ## Directory Structure -
 
@@ -55,3 +59,4 @@ Entry Point - index.js
                 and has a checkinputs and generate method for the last level verification of inputs defined under 
                 /utils/slip_generation_utils.js file and the taxation table for income tax calculation inside 
                 the /config/tax_table.js as an array of JSON objects.
+
