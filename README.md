@@ -32,17 +32,17 @@ NODE_ENV=staging node server.js
 
 ### Question
 
-![Question](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/question.PNG)
+![Question](https://github.com/shubh9457006801/Employee_pay_slip_generation/blob/master/question.PNG)
 
 ### Landing Page
 
-![Landing Page](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/landing_page.PNG)
+![Landing Page](https://github.com/shubh9457006801/Employee_pay_slip_generation/blob/master/landing_page.PNG)
 
 ### Generating Payslips
 
-![Generating payslip](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/Generate_slip1.PNG)
-![Generating payslip](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/Generate_slip2.PNG)
-![Generating payslip](https://github.com/shubh9457006801/Pay_slip_generation/blob/master/Generate_slip3.PNG)
+![Generating payslip](https://github.com/shubh9457006801/Employee_pay_slip_generation/blob/master/Generate_slip1.PNG)
+![Generating payslip](https://github.com/shubh9457006801/Employee_pay_slip_generation/blob/master/Generate_slip2.PNG)
+![Generating payslip](https://github.com/shubh9457006801/Employee_pay_slip_generation/blob/master/Generate_slip3.PNG)
 
 ## Directory Structure -
 
